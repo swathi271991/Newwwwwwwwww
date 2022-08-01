@@ -17,6 +17,8 @@ public class ArmStrongNumber {
 		int noofdigits = s.nextInt();
 		actual = no;
 		
+		System.out.println("Hi");
+		
 		while(no>0)
 		{
 			int r = no%10;
